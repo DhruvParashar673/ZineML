@@ -1,1 +1,1 @@
-# ZineML
+# ML basics
